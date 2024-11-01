@@ -1,0 +1,97 @@
+/* CSS for WP-Testimonials */
+#Whtest-form label {
+float: left;
+width: 200px;
+font-weight: bold;
+}
+
+#Whtest-form input {
+width: 250px;
+margin-bottom: 5px;
+border: 1px solid #ccc;
+}
+
+#Whtest-form br {
+	clear: left;
+}
+.test_top
+{
+	background: url("../images/bg1.gif") no-repeat scroll right -19px transparent;
+	height: 8px;
+	margin-top: 10px;
+}
+.test_mid
+ {
+ 	background: none repeat scroll 0 0 #EDEDED;
+    height: 100%;
+    margin: 0;
+    padding: 20px;
+    }
+.test_bot
+   {
+   background: url("../images/bg.gif") no-repeat scroll left -36px transparent;
+    height: 30px;
+   }
+.test_bot1
+{
+	 background: url("../images/bg1.gif") no-repeat scroll left -51px transparent;
+    height: 30px;
+}
+.test_mid blockquote cite
+{
+	text-align: right;
+	color:  #000;
+}
+.test_mid blockquote p,.test_mid_2 blockquote p
+{
+	margin-bottom: 5px;
+}
+.test_mid blockquote
+{
+	color: #000000;
+    font-family: tahoma,arial;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: normal;
+
+}
+.test_mid_2 blockquote
+{
+	color: #000000;
+    font-family: tahoma,arial;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: normal;
+
+}
+.test_mid_2
+{
+background:url("../images/top-bg.jpg") repeat-x scroll center top #FAE163;
+margin-bottom: 20px;
+}
+.test_bot_2
+   {
+   	 background: url("../images/bg.jpg") repeat-x scroll left bottom transparent;
+   	 padding-bottom: 0px;
+   }
+.test_bot1_2
+{
+	 background: url("../images/bot-right.jpg") no-repeat scroll right bottom transparent;
+	 padding-bottom: 41px;
+	 padding-top: 20px;
+}
+.testimonial_name
+{
+	text-align: right;
+	width: 100%;
+	padding-top: 40px;
+
+}
+.testimonial_name span
+{
+	background: url("../images/aero_icon.jpg") no-repeat scroll left bottom transparent;
+	padding-left: 18px;
+	text-transform: capitalize;
+	font-weight: bold;
+
+}
